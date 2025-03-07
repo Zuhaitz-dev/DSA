@@ -87,11 +87,12 @@
    cout << "Diagonal of matrix C:\n";
    d1.write();
  
-   // Also with B:
-   vector_t<double> d2;
-   d2 = B.get_diagonal();
-   cout << "Diagonal of matrix B:\n";
-   d2.write();
+   // With B it won't work because it's not a square (in the data.txt at least)
+   
+   // vector_t<double> d2;
+   // d2 = B.get_diagonal();
+   // cout << "Diagonal of matrix B:\n";
+   // d2.write();
  
    // ---------------------------------------------------------//
  
