@@ -4,10 +4,10 @@ This repository contains materials and code related to university coursework on 
 
 ## Table of Contents
 
-- [Practices](#practices)
-  - [1st Practice](#1st-practice)
-  - [2nd Practice](#2nd-practice)
-- [License](#license)
+- [Practices](./Practices/)
+  - [1st Practice](./Practices/1stPractice)
+  - [2nd Practice](./Practices/2ndPractice)
+- [License](./LICENSE)
 
 ## Practices
 
