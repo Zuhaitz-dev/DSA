@@ -7,6 +7,7 @@ This repository contains materials and code related to university coursework on 
 - [Practices](./Practices/)
   - [1st Practice](./Practices/1stPractice)
   - [2nd Practice](./Practices/2ndPractice)
+  - [3rd Practice](/Practices/3rdPractice)
 - [License](./LICENSE)
 
 ## Practices
@@ -17,7 +18,11 @@ Working with rational numbers.
 
 ### 2nd Practice
 
-Working with rational numbers, vectors and matrices. 
+Working with rational numbers, vectors and matrices.
+
+### 3rd Practice
+
+Working with sparse and dense vectors.
 
 ## License
 
